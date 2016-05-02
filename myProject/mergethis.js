@@ -1,8 +1,11 @@
 
 function conflict(a, b, c) {
         var d = a + b;
-        var conflict = a + b + c + d;
+        var x = a;
         console.log(conflict);
 }
 
-conflict(1,2,3);
+shdjdj
+dhjdh
+opopop
+conflict(1,3);
